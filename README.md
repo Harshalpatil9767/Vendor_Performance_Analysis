@@ -83,15 +83,10 @@ To ensure accurate analysis, the following were removed:
 
 ## 🛍️ Sales Performance
 
-### 🏆 Top 10 Vendors by Sales
+### 🏆 Top 10 Vendors by Sales and top 10 Brands by sales
 
-![Top 10 Vendors by Sales](./visuals/top_10_vendors_sales.png)
+![Top 10 Vendors by Sales](https://github.com/Harshalpatil9767/Vendor_Performance_Analysis/blob/4fb6725989619d838660733c19b876a1a938b62e/output.png)
 
-### 🧵 Top 10 Brands by Sales
-
-![Top 10 Brands by Sales](./visuals/top_10_brands_sales.png)
-
----
 
 ## 📦 Purchase Contribution
 
