@@ -77,7 +77,7 @@ To ensure accurate analysis, the following were removed:
 
 ### 📊 Summary Statistics
 
-![Summary Statistics](./visuals/summary_statistics.png)
+![Summary Statistics](https://github.com/Harshalpatil9767/Vendor_Performance_Analysis/blob/00ceed5e578aadae738025a65e53cac8ac7d323f/EDA_Stat.png)
 
 ---
 
