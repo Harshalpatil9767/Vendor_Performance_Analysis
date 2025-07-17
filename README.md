@@ -129,7 +129,5 @@ The Power BI dashboard offers a stakeholder-ready visualization layer with filte
 
 ---
 
-## 🧪 Statistical Test
+## THANK YOU
 
-```python
-t_stat, p_value = ttest_ind(top_vendors['Profit_Margin'], low_vendors['Profit_Margin'], equal_var=False)
