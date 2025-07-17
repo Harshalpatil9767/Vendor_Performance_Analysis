@@ -94,7 +94,7 @@ To ensure accurate analysis, the following were removed:
 
 This chart shows dependency on top suppliers and guides procurement diversification.
 
-![Top 10 Purchase Contribution](./visuals/purchase_contribution.png)
+![Top 10 Purchase Contribution](https://github.com/Harshalpatil9767/Vendor_Performance_Analysis/blob/83e58145cc842916c4127b3fe833f6a5e6b9e39a/output2.png)
 
 ---
 
