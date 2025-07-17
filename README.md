@@ -4,6 +4,7 @@
 ## Project Overview
 
 This project analyzes vendor performance for a retail/wholesale business to help drive strategic decisions in purchasing, pricing, and inventory management. Using a combination of **SQL**, **Python (Pandas, Seaborn, Matplotlib)**, and **Power BI**, we identified key insights to improve profitability, streamline inventory, and reduce vendor-related risk.
+
 ![Power BI Dashboard](https://github.com/Harshalpatil9767/Vendor_Performance_Analysis/blob/84a8d9a3912cb9c5744f6606fa95447eb72577e0/Screenshot%202025-07-17%20133621.png)
 
 
