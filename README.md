@@ -91,7 +91,7 @@ The Power BI dashboard offers interactive visuals:
 - Inventory Turnover by Brand
 - Bulk Purchase Impact Chart
 
-> _Note: Power BI visuals can be added here via screenshots or linked via published reports._
+
 
 ---
 
@@ -104,5 +104,4 @@ A two-sample t-test was used to compare profit margins:
 
 ---
 
-## 📁 Repository Structure
 
