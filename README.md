@@ -105,7 +105,7 @@ The Power BI dashboard offers a stakeholder-ready visualization layer with filte
 - Inventory and pricing metrics
 - Bulk discount trends
 
-![Power BI Dashboard](./visuals/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/Harshalpatil9767/Vendor_Performance_Analysis/blob/e1a86cc42b018c8f12142c4eabfa2ac9b4e12bda/Screenshot%202025-07-17%20133621.png)
 
 ---
 
